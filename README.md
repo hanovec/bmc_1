@@ -1,0 +1,1 @@
+# BMC Navigátor Aplikace
